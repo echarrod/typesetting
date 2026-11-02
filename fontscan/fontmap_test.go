@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/OpenMellon/typesetting/font"
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/language"
-	"github.com/OpenMellon/typesetting/shaping"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/font"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/language"
+	"github.com/echarrod/typesetting/shaping"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func ExampleFontMap_UseSystemFonts() {
@@ -383,7 +383,7 @@ func TestDumpSystemFonts(t *testing.T) {
 	}
 	code := fmt.Sprintf(`
 	package fontscan
-	import "github.com/OpenMellon/typesetting/font"
+	import "github.com/echarrod/typesetting/font"
 
 	// extracted from a linux system
 	var linuxSampleFontSet =

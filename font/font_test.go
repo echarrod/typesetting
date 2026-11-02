@@ -6,9 +6,9 @@ import (
 	"bytes"
 	"testing"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	tu "github.com/echarrod/typesetting/testutils"
 	hb "github.com/go-text/typesetting-utils/harfbuzz"
 	td "github.com/go-text/typesetting-utils/opentype"
 )

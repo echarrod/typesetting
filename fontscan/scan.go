@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
+	ot "github.com/echarrod/typesetting/font/opentype"
 )
 
 // DefaultFontDirectories return the OS-dependent usual directories for

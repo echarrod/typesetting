@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/language"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/language"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestNewLangset(t *testing.T) {

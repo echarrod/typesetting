@@ -1,6 +1,6 @@
 package fontscan
 
-import "github.com/OpenMellon/typesetting/font"
+import "github.com/echarrod/typesetting/font"
 
 // extracted from a linux system
 var linuxSampleFontSet = fontSet{

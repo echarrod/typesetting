@@ -3,7 +3,7 @@ package tables
 import (
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestCOLR(t *testing.T) {

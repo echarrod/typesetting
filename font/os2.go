@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 type os2 struct {

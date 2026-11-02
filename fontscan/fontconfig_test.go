@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestParseFontconfig(t *testing.T) {

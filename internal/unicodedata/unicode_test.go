@@ -3,7 +3,7 @@ package unicodedata
 import (
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 var composeTests = []struct {

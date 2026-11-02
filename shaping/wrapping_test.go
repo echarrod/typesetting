@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/di"
+	"github.com/echarrod/typesetting/di"
 	"golang.org/x/image/math/fixed"
 )
 

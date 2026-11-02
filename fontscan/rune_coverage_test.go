@@ -9,9 +9,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/language"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/language"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // newRuneSet builds a set containing the given runes.

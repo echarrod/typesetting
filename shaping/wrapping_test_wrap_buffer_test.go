@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/language"
 	"golang.org/x/image/math/fixed"
 )
 

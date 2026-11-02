@@ -6,10 +6,10 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/language"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/language"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func Test_ignoreFaceChange(t *testing.T) {

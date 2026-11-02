@@ -5,7 +5,7 @@ import (
 	"slices"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // newIntSet builds a set containing the given runes.

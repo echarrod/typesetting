@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // ported from harfbuzz/test/api/test-aat-layout.c Copyright © 2018  Ebrahim Byagowi

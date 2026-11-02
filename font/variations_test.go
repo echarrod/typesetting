@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"testing"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // ported from harfbuzz/test/api/test-var-coords.c Copyright © 2019 Ebrahim Byagowi

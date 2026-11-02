@@ -1,9 +1,9 @@
 package harfbuzz
 
 import (
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-hangul.cc Copyright © 2013  Google, Inc. Behdad Esfahbod

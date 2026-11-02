@@ -4,7 +4,7 @@ import (
 	"testing"
 	"unicode"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestParseScript(t *testing.T) {

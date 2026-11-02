@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/OpenMellon/typesetting/font/cff/interpreter"
+	ps "github.com/echarrod/typesetting/font/cff/interpreter"
 )
 
 var topDictOperators = [2][]topDictOperator{

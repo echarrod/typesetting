@@ -3,9 +3,9 @@ package harfbuzz
 import (
 	"testing"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	"github.com/OpenMellon/typesetting/language"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/language"
 )
 
 // ported from harfbuzz/test/api/test-ot-tag.c Copyright © 2011  Google, Inc. Behdad Esfahbod

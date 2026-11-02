@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/language"
 )
 
 // LangID is a compact representation of a language

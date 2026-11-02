@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 // ported from harfbuzz/src/hb-ot-layout-gsubgpos.hh Copyright © 2007,2008,2009,2010  Red Hat, Inc. 2010,2012  Google, Inc.  Behdad Esfahbod

@@ -1,10 +1,10 @@
 package harfbuzz
 
 import (
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
-	"github.com/OpenMellon/typesetting/language"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/language"
 )
 
 type zeroWidthMarks uint8

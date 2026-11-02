@@ -2,7 +2,7 @@
 
 package tables
 
-import "github.com/OpenMellon/typesetting/language"
+import "github.com/echarrod/typesetting/language"
 
 // Ltag is the language tags table
 // See https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6ltag.html

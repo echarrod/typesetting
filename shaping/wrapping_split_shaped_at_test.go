@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // splitShapedAt splits a single shaped output into multiple. It splits

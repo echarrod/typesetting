@@ -4,8 +4,8 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/OpenMellon/typesetting/language"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/language"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestLookupGraphemeBreak(t *testing.T) {

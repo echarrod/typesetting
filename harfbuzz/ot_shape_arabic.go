@@ -3,9 +3,9 @@ package harfbuzz
 import (
 	"fmt"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
-	"github.com/OpenMellon/typesetting/language"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/language"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-arabic.cc, hb-ot-shape-complex-arabic-fallback.hh Copyright © 2010,2012  Google, Inc. Behdad Esfahbod

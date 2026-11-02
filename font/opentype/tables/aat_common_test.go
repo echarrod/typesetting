@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 	td "github.com/go-text/typesetting-utils/opentype"
 )
 

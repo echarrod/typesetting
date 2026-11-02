@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/language"
 )
 
 func Test_serializeFootprints(t *testing.T) {

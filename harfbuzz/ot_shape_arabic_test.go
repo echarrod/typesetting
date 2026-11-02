@@ -3,7 +3,7 @@ package harfbuzz
 import (
 	"testing"
 
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/language"
 )
 
 func TestNumArabicLookup(t *testing.T) {

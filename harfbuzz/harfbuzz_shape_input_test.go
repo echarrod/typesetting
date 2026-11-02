@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/language"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/language"
+	tu "github.com/echarrod/typesetting/testutils"
 	td "github.com/go-text/typesetting-utils/harfbuzz"
 )
 

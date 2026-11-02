@@ -5,8 +5,8 @@ import (
 	"math/bits"
 	"slices"
 
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 const maxContextLength = 64

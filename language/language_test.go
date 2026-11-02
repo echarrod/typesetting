@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestLanguage(t *testing.T) {

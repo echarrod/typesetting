@@ -3,7 +3,7 @@ package harfbuzz
 import (
 	"strings"
 
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 type langTag struct {

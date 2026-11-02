@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
+	ot "github.com/echarrod/typesetting/font/opentype"
 )
 
 // PathBounds represents a control bounds for

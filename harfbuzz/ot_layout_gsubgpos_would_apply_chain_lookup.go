@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"fmt"
 
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/font/opentype/tables"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
 )
 
 // `input` starts with second glyph (`inputCount` = len(input)+1)

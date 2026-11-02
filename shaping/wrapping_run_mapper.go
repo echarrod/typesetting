@@ -3,8 +3,8 @@ package shaping
 import (
 	"math"
 
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/segmenter"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/segmenter"
 	"golang.org/x/image/math/fixed"
 )
 

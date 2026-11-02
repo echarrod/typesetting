@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/language"
 )
 
 /* Rules from:

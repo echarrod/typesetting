@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/OpenMellon/typesetting/font/cff/interpreter"
-	"github.com/OpenMellon/typesetting/font/opentype"
+	ps "github.com/echarrod/typesetting/font/cff/interpreter"
+	"github.com/echarrod/typesetting/font/opentype"
 )
 
 var errUnsupportedCFFVersion = errors.New("unsupported CFF version")

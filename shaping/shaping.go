@@ -3,8 +3,8 @@
 package shaping
 
 import (
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/harfbuzz"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/harfbuzz"
 	"golang.org/x/image/math/fixed"
 )
 

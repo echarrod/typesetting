@@ -1,7 +1,7 @@
 package harfbuzz
 
 import (
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 func (c *otApplyContext) applyGPOSMarkToBase(data tables.MarkBasePos, markIndex int) bool {

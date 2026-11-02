@@ -1,8 +1,8 @@
 package harfbuzz
 
 import (
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
-	"github.com/OpenMellon/typesetting/language"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/language"
 )
 
 // ported from harfbuzz/src/hb-ot-shape-complex-thai.cc Copyright © 2010,2012  Google, Inc.  Behdad Esfahbod

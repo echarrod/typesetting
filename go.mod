@@ -1,4 +1,4 @@
-module github.com/OpenMellon/typesetting
+module github.com/echarrod/typesetting
 
 go 1.26.0
 

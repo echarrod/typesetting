@@ -3,7 +3,7 @@ package unicodedata
 import (
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 // See https://www.unicode.org/reports/tr14/#DescriptionOfProperties

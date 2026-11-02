@@ -3,7 +3,7 @@
 package segmenter
 
 import (
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
 )
 
 // -----------------------------------------------------------------------

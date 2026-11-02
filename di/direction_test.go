@@ -3,8 +3,8 @@ package di
 import (
 	"testing"
 
-	"github.com/OpenMellon/typesetting/harfbuzz"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	"github.com/echarrod/typesetting/harfbuzz"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestDirection(t *testing.T) {

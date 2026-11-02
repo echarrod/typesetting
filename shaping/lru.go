@@ -1,8 +1,8 @@
 package shaping
 
 import (
-	"github.com/OpenMellon/typesetting/font"
-	"github.com/OpenMellon/typesetting/harfbuzz"
+	"github.com/echarrod/typesetting/font"
+	"github.com/echarrod/typesetting/harfbuzz"
 )
 
 // adjust the cache size of the zero value, used by default

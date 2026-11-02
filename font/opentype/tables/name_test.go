@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	tu "github.com/OpenMellon/typesetting/testutils"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	tu "github.com/echarrod/typesetting/testutils"
 	td "github.com/go-text/typesetting-utils/opentype"
 )
 

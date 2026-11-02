@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/language"
-	"github.com/OpenMellon/typesetting/segmenter"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/language"
+	"github.com/echarrod/typesetting/segmenter"
 	"golang.org/x/image/math/fixed"
 )
 

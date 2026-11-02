@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	tu "github.com/OpenMellon/typesetting/testutils"
+	tu "github.com/echarrod/typesetting/testutils"
 )
 
 func TestIndicGetCategories(t *testing.T) {

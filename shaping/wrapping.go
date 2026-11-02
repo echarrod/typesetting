@@ -3,8 +3,8 @@ package shaping
 import (
 	"sort"
 
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/segmenter"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/segmenter"
 )
 
 // glyphIndex is the index in a Glyph slice

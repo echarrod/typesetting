@@ -3,12 +3,12 @@
 package shaping
 
 import (
-	"github.com/OpenMellon/typesetting/di"
-	"github.com/OpenMellon/typesetting/font"
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/harfbuzz"
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
-	"github.com/OpenMellon/typesetting/language"
+	"github.com/echarrod/typesetting/di"
+	"github.com/echarrod/typesetting/font"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/harfbuzz"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/language"
 	"golang.org/x/image/math/fixed"
 	"golang.org/x/text/unicode/bidi"
 )

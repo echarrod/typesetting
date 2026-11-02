@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/OpenMellon/typesetting/font/cff"
-	ot "github.com/OpenMellon/typesetting/font/opentype"
-	"github.com/OpenMellon/typesetting/font/opentype/tables"
+	"github.com/echarrod/typesetting/font/cff"
+	ot "github.com/echarrod/typesetting/font/opentype"
+	"github.com/echarrod/typesetting/font/opentype/tables"
 )
 
 type (

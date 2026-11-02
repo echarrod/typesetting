@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"fmt"
 
-	ucd "github.com/OpenMellon/typesetting/internal/unicodedata"
-	"github.com/OpenMellon/typesetting/language"
+	ucd "github.com/echarrod/typesetting/internal/unicodedata"
+	"github.com/echarrod/typesetting/language"
 )
 
 func (indicPlan *indicShapePlan) finalReorderingSyllableIndic(buffer *Buffer, start, end int) {
